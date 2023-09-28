@@ -7,7 +7,7 @@
 </head>
 <link rel="stylesheet" href="index.css"/>
 <body>
-    <?php include "./Views/header.php"?>
+    <?php include "./header.php"?>
     <div class="cont">
         <div class="box"></div>
     </div>
